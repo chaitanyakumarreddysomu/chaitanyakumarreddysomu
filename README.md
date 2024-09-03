@@ -14,9 +14,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyakumarreddysomu&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyakumarreddysomu" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/chaitanyakumarreddysomu](https://www.linkedin.com/in/chaitanyakumarreddysomu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaitanyakumarreddysomu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyakumarreddysomu" height="30" width="40" /></a>
+<a href="https://x.com/chaitureddy77" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzMzgwNDUsIm5iZiI6MTcyNTMzNzc0NSwicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDkwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA5MDNUMDQyOTA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjEzMjcxNTdmYTAxODllZTEzYWNhNDY4MzgwM2UxZTdmODQ2NDJjM2I0YTllMmNhOTM2NDI0OGU4ODhkZWYyMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.6jiN6AlpX-zfiTLJe_N7h-OeJvYNGeZnT7rrprLBhVc" alt="chaitanyakumarreddysomu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chaitu._reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+
   
 </p>
 
