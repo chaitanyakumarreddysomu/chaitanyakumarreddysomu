@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Somu Chaitanya Kumar Reddy</h1>
-<div align="center"> <img src="https://github.com/chaitanyakumarreddysomu/chaitanyakumarreddysomu/blob/main/github-header-image.png"> </div
+<div align="center"> <img src="https://github.com/chaitanyakumarreddysomu/chaitanyakumarreddysomu/blob/main/banner.png"> </div
 <h3 align="center">A passionate Java developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
